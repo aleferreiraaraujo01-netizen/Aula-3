@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "aula 3",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aula 3"
+	}
+}
